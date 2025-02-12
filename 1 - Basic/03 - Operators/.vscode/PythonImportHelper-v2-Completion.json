@@ -1,0 +1,20 @@
+[
+    {
+        "label": "Ban",
+        "kind": 6,
+        "importPath": "Practical.1.iii",
+        "description": "Practical.1.iii",
+        "peekOfCode": "class Ban:\n    def __str__(self):\n        return \"vishu\"\nnam = Ban()\nprint(nam)",
+        "detail": "Practical.1.iii",
+        "documentation": {}
+    },
+    {
+        "label": "nam",
+        "kind": 5,
+        "importPath": "Practical.1.iii",
+        "description": "Practical.1.iii",
+        "peekOfCode": "nam = Ban()\nprint(nam)",
+        "detail": "Practical.1.iii",
+        "documentation": {}
+    }
+]
