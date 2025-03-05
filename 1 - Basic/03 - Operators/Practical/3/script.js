@@ -1,0 +1,12 @@
+let a = 12;
+console.log(`value of a is: `,a)
+console.log(a+=1)
+console.log(`value of a is: `,a)
+console.log(a-=1)
+console.log(`value of a is: `,a)
+console.log(a*=2)
+console.log(`value of a is: `,a)
+console.log(a/=2)
+console.log(`value of a is: `,a)
+console.log(a%=2)
+console.log(`value of a is: `,a)
